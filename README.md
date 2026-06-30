@@ -1,1 +1,1 @@
-# Smart-email-classifier
+The Smart Email Classifier is an AI-powered application that automatically analyzes incoming emails and organizes them based on their content and importance. It classifies emails into different categories, assigns a priority level, generates summaries, recommends actions, and even drafts automatic replies. The application is built with Streamlit for the user interface, Scikit-learn for machine learning, and Google Gemini API for advanced AI features.
